@@ -26,13 +26,13 @@ sections:
     icon_class: ''
     new_window: false
     no_follow: false
-  image: "/images/me.jpg"
+  image: ''
   image_alt: Muhammad Alamin Mir Image
 - type: section_posts
   template: section_posts
   title: Recent Posts
   section_id: recent-posts
-  posts_number: 4
+  posts_number: '4'
   actions:
   - type: action
     template: action
