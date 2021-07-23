@@ -12,10 +12,11 @@ sections:
   template: section_content
   title: About
   section_id: about
-  content: This is the "about" excerpt. It can be used to provide a paragraph about
-    yourself that people can read on the homepage to get a sense of who you are. There
-    also exists a dedicated about page where you can write more about yourself for
-    those who are interested.
+  content: "Hi there, I am Muhammad Alamin Mir. I am from Dhaka, Bangladesh. I Study
+    in Computer Science at Graphic art's Institute Muhammadpur, Dhaka. I am a Programmer,
+    Web Developer & also Student.  \nTechnology I know :  \nProgramming Language:
+    C, C++, Javascript.  \nWeb Development: HTML, CSS, Bootstrap, JQuery, React, NODE,
+    Express, MongoDB.  \nTools: Vs Code, Github."
   actions:
   - type: action
     template: action
@@ -25,8 +26,8 @@ sections:
     icon_class: ''
     new_window: false
     no_follow: false
-  image: ''
-  image_alt: ''
+  image: "/images/me.jpg"
+  image_alt: Muhammad Alamin Mir Image
 - type: section_posts
   template: section_posts
   title: Recent Posts
