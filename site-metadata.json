@@ -10,7 +10,7 @@
     "profile_img": "/images/me.jpg",
     "profile_img_alt": "Muhammad Alamin Mir Image",
     "background": "dark",
-    "has_nav": false,
+    "has_nav": true,
     "nav_links": [
       {
         "type": "action",
