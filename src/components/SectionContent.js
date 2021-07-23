@@ -14,7 +14,7 @@ export default class SectionContent extends React.Component {
               )}
               {_.get(section, 'image', null) && (
               <div className="block-image">
-                <img width="100px" src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} />
+                <img  src={withPrefix(_.get(section, 'image', null))} alt={_.get(section, 'image_alt', null)} width="100px" height="100px"/>
               </div>
               )}
               {_.get(section, 'content', null) && (
