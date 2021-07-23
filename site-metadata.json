@@ -1,14 +1,14 @@
 {
   "title": "Mohammad Alamin Mir",
-  "layout_style": "overflow",
-  "palette": "blue",
+  "layout_style": "simple",
+  "palette": "violet",
   "header": {
     "type": "header",
     "template": "header",
     "title": "Muhammad Alamin Mir",
     "tagline": "Alamin Mir",
-    "profile_img": "images/avatar.png",
-    "profile_img_alt": "Author avatar",
+    "profile_img": "/images/me.jpg",
+    "profile_img_alt": "Muhammad Alamin Mir Image",
     "background": "dark",
     "has_nav": true,
     "nav_links": [
@@ -27,16 +27,6 @@
         "template": "action",
         "label": "Blog",
         "url": "/blog/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false,
-        "no_follow": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Style Guide",
-        "url": "/style-guide/",
         "style": "link",
         "icon_class": "",
         "new_window": false,
@@ -69,11 +59,11 @@
         "type": "action",
         "template": "action",
         "label": "Twitter",
-        "url": "https://twitter.com/",
+        "url": "https://twitter.com/alamin_mir08",
         "style": "icon",
         "icon_class": "twitter",
         "new_window": true,
-        "no_follow": false
+        "no_follow": true
       },
       {
         "type": "action",
