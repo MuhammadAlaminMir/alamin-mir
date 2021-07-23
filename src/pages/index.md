@@ -6,8 +6,7 @@ sections:
   template: section_hero
   title: Hi, I'm Muhammad Alamin Mir
   section_id: hero
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+  content: Competitive Programmer, Web Developer & Learner
   actions: []
 - type: section_content
   template: section_content
