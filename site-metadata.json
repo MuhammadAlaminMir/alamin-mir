@@ -10,7 +10,7 @@
     "profile_img": "/images/me.jpg",
     "profile_img_alt": "Muhammad Alamin Mir Image",
     "background": "dark",
-    "has_nav": true,
+    "has_nav": false,
     "nav_links": [
       {
         "type": "action",
@@ -89,7 +89,7 @@
         "type": "action",
         "template": "action",
         "label": "LinkedIn",
-        "url": "https://www.linkedin.com/",
+        "url": "https://www.linkedin.com/in/muhammad-alamin-mir/",
         "style": "icon",
         "icon_class": "linkedin",
         "new_window": true,
